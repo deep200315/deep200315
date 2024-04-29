@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep200315&label=Profile%20views&color=0e75b6&style=flat" alt="deep200315" /> </p>
 
-- 🌱 I’m currently learning **react, Angular, Deep Learning**
+- 🌱 I’m currently learning **Artificial Intelligence, Deep Learning, Full Stack**
 
 - 📫 How to reach me **deeptanush.kapaka@gmail.com**
 
